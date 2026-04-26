@@ -1,0 +1,4 @@
+# Basic Kafka configuration reference
+auto.create.topics.enable: true
+log.retention.hours: 168   # 7 days
+num.partitions: 3

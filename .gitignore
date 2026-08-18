@@ -1,11 +1,5 @@
-# Kubernetes
-kubeconfig
-*.kubeconfig
-
-# Helm
-charts/
-Chart.lock
-
-# Temporary files
+.env
+evidence/
 *.log
 .DS_Store
+
